@@ -1,0 +1,4 @@
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineHelper\bin\Debug\BusinessRulesEngineHelper.dll
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineHelper\bin\Debug\BusinessRulesEngineHelper.pdb
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineHelper\obj\Debug\BusinessRulesEngineHelper.dll
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineHelper\obj\Debug\BusinessRulesEngineHelper.pdb

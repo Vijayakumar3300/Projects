@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<br />
+<br /><br />
+<br />
+<div class="row">
+    <h4>Please Select an Item For Payment</h4>
+</div>
+
+<div class="row">
+    <form method="post">
+        <input type="radio" name="OrderType" value="1"> Physical Product<br>
+        <input type="radio" name="OrderType" value="2"> Book<br>
+        <input type="radio" name="OrderType" value="3"> Activate Membership<br>
+        <input type="radio" name="OrderType" value="4"> Upgrade Membership<br>
+        <input type="radio" name="OrderType" value="5"> Video
+
+        <br />
+        <br />
+        <input type="submit" class="btn btn-success" value="Submit" />
+
+    </form>
+    <br />
+    <br />
+    <div>
+        <p class="text-danger">@Html.Raw(ViewBag.Message)</p>
+    </div>
+</div>

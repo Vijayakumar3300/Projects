@@ -1,0 +1,7 @@
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineBL\bin\Debug\BusinessRulesEngineBL.dll
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineBL\bin\Debug\BusinessRulesEngineBL.pdb
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineBL\obj\Debug\BusinessRulesEngineBL.csprojResolveAssemblyReference.cache
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineBL\obj\Debug\BusinessRulesEngineBL.dll
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineBL\obj\Debug\BusinessRulesEngineBL.pdb
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineBL\bin\Debug\BusinessRulesEngineHelper.dll
+G:\Test Projects1\BusinessRulesEngine\BusinessRulesEngineBL\bin\Debug\BusinessRulesEngineHelper.pdb
